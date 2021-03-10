@@ -1,3 +1,6 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.ai filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.jpg filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> b966cfda5da413757783f045c296398d2159ff98
